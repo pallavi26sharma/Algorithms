@@ -1,3 +1,13 @@
 Recipe (algorithm) to make a delicious cup of tea.
-Step 1:
-Step 2:
+Step 1: Take a pan.
+Step 2: Take one fourth cup of water.
+Step 3: Pour it into pan.
+Step 4: Put that pan on gas and turn gas on.
+Step 5: Now add 1 tablespoon sugar in the water.
+Step 6: Add half tablespoon of tea leaves.
+Step 7: Let the mixture boil for about 2 minutes.
+Step 8: Now take one cup of milk and add it to the mixture.
+Step 9: Let the mixture boil for 5 to 6 minutes.
+Step10: Now turn off the gas and our tea is ready.
+Step11: Take a strainer and pour the tea through it into cup.
+Step12: Our tea is ready to be served.  
